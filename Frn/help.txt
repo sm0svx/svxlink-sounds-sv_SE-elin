@@ -1,0 +1,1 @@
+Den här modulen används för att ansluta till det fria radionätverket:FRN.Av-aktivera modulen genom att skicka en ensam fyrkant
