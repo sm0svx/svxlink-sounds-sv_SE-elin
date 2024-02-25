@@ -1,0 +1,1 @@
+Röstbrevlådan används för att spela in röstmeddelanden till andra radioamatörer.Du behöver be nod-ägaren om ett personligt ID och pinn,innan tjänsten kan användas.Avbryt en operation med fyrkant.
