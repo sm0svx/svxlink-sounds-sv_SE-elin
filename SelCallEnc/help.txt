@@ -1,0 +1,1 @@
+Modulen för selektiv-anrop används för att sända olika typer av tonselektiv.För att sända ett tonselektiv,ange ett D T MF-kommando där de första två siffrorna anger vilken standard som skall användas,och de resterande siffrorna anger vilka toner som skall sändas.Tillgängliga standarder är
