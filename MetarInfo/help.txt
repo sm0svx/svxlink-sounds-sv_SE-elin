@@ -1,0 +1,1 @@
+Med modulen metarinfo, får du väderdata upplästa. Välj flygplats med snabbval ett' till 9. Snabbvalen listas genom att sända 01 när modulen är aktiv. Sänd fyrkant för att avsluta metarinfo.
